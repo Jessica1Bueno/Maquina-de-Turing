@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MT2", "MT2\MT2.fsproj", "{9E16D310-92D5-43E2-BC03-328314AD78B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E16D310-92D5-43E2-BC03-328314AD78B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E16D310-92D5-43E2-BC03-328314AD78B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E16D310-92D5-43E2-BC03-328314AD78B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E16D310-92D5-43E2-BC03-328314AD78B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2170FA4B-6A5A-4DEE-B914-BA73226A3C6C}
+	EndGlobalSection
+EndGlobal
